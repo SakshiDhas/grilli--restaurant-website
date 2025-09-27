@@ -22,4 +22,4 @@ It includes multiple sections such as **Home, Menu, About Us, Our Chefs, and Con
 
 ---
 
-## 📂 Project Structure
+
